@@ -2695,6 +2695,7 @@
 			display: inline-block;
 			padding-bottom: 8em;
 			vertical-align: middle;
+			padding-left: 70px;
 		}
 
 			#header header h1, #header header h2, #header header h3, #header header h4, #header header h5, #header header h6, #header header strong, #header header b {
